@@ -4,11 +4,9 @@ A mobile port of our very first game, *Squirrel Delivery*, originally developed 
 
 Shoutout to my awesome teammates: Mercy Swinney, Drishti Shrestha, and Hisashi Tagai — and to the best-of-the-best professor and advisor: Jaime Spacco.
 
----
 ## Itch.io
 [You can play the game on itch.io with mouse and keyboard](https://rolling-banana.itch.io/squirrel-delivery "Itch.io")
 
----
 
 ## Control for mobile
 
