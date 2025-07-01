@@ -1,0 +1,108 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1751384177802" ID="ID_615432575" MODIFIED="1751384731536" TEXT="Game">
+<font NAME="SansSerif" SIZE="20"/>
+<node CREATED="1751384219360" HGAP="103" ID="ID_772017266" MODIFIED="1751385146899" POSITION="right" TEXT="Map: Knox Campus" VSHIFT="-126">
+<font NAME="SansSerif" SIZE="20"/>
+<node CREATED="1751384414364" HGAP="83" ID="ID_953762235" MODIFIED="1751384748780" TEXT="Outdoor" VSHIFT="-24">
+<font NAME="SansSerif" SIZE="20"/>
+<node CREATED="1751384757164" HGAP="27" ID="ID_1984107819" MODIFIED="1751384964857" TEXT="Alumni Hall" VSHIFT="-27">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1751384943919" ID="ID_1040680502" MODIFIED="1751384962885" TEXT="Library">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node CREATED="1751384424615" HGAP="146" ID="ID_1098269470" MODIFIED="1751385141300" TEXT="Indoor" VSHIFT="-2">
+<font NAME="SansSerif" SIZE="20"/>
+<node CREATED="1751384701638" HGAP="62" ID="ID_1831792755" MODIFIED="1751384736405" TEXT="SMC" VSHIFT="-12">
+<font NAME="SansSerif" SIZE="20"/>
+<node CREATED="1751384917203" HGAP="57" ID="ID_172488052" MODIFIED="1751384939911" TEXT="Riddle" VSHIFT="-7">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1751384919861" HGAP="45" ID="ID_1364295361" MODIFIED="1751384937742" TEXT="Math" VSHIFT="19">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1751384706547" HGAP="42" ID="ID_1709864463" MODIFIED="1751384973270" TEXT="CFA" VSHIFT="26">
+<font NAME="SansSerif" SIZE="20"/>
+<node CREATED="1751384989609" HGAP="55" ID="ID_1231189540" MODIFIED="1751385010316" TEXT="Music" VSHIFT="5">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1751384996029" HGAP="43" ID="ID_1950065121" MODIFIED="1751385012264" TEXT="Theatre" VSHIFT="19">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+</node>
+<node CREATED="1751385122762" HGAP="134" ID="ID_1563677030" MODIFIED="1751385135916" TEXT="Backtrack?" VSHIFT="18">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node CREATED="1751384224504" HGAP="116" ID="ID_664685542" MODIFIED="1751384731535" POSITION="left" TEXT="Player" VSHIFT="-23">
+<font NAME="SansSerif" SIZE="20"/>
+<node CREATED="1751384544384" HGAP="70" ID="ID_971673149" MODIFIED="1751384731535" TEXT="Movement" VSHIFT="-29">
+<font NAME="SansSerif" SIZE="20"/>
+<node CREATED="1751384797525" HGAP="60" ID="ID_203356063" MODIFIED="1751385029912" TEXT="Left/Right" VSHIFT="-24">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1751384806900" HGAP="71" ID="ID_1123840511" MODIFIED="1751385035580" TEXT="Jump">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1751384545845" HGAP="107" ID="ID_1715464969" MODIFIED="1751384731535" TEXT="Attack" VSHIFT="29">
+<font NAME="SansSerif" SIZE="20"/>
+<node CREATED="1751384836723" HGAP="58" ID="ID_204490531" MODIFIED="1751385044790" TEXT="Cost Health" VSHIFT="4">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1751384848995" HGAP="75" ID="ID_1890543201" MODIFIED="1751385046353" TEXT="Instant Kill" VSHIFT="38">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1751384226178" HGAP="205" ID="ID_1900123931" MODIFIED="1751384886981" POSITION="left" TEXT="Enemy" VSHIFT="40">
+<font NAME="SansSerif" SIZE="20"/>
+<node CREATED="1751384474801" HGAP="69" ID="ID_596470055" MODIFIED="1751385048145" TEXT="Idle" VSHIFT="-21">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1751385065385" ID="ID_553295953" MODIFIED="1751385096199" TEXT="Stand still">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1751385075577" HGAP="69" ID="ID_1127655075" MODIFIED="1751385094433" TEXT="Patrol" VSHIFT="19">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+</node>
+<node CREATED="1751384480063" HGAP="52" ID="ID_257053866" MODIFIED="1751385049843" TEXT="Chase" VSHIFT="48">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1751384268645" HGAP="260" ID="ID_1024311019" MODIFIED="1751385143640" POSITION="right" TEXT="Collectables" VSHIFT="-6">
+<font NAME="SansSerif" SIZE="20"/>
+<node CREATED="1751384573019" HGAP="115" ID="ID_1431329638" MODIFIED="1751385017513" TEXT="Health" VSHIFT="-1">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1751384581316" HGAP="111" ID="ID_132306639" MODIFIED="1751385020141" TEXT="Speed Up" VSHIFT="44">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1751384650695" HGAP="122" ID="ID_1755790858" MODIFIED="1751385025103" TEXT="Invincible" VSHIFT="38">
+<font NAME="SansSerif" SIZE="20"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+</map>
